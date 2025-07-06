@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Except these files:
+!.gitignore
+!app.py
+!sample_data/
+!sample_data/sample_data.csv
+!requirements.txt
+
+# Always ignore Python cache files
+__pycache__/
+*.pyc
+.idea
