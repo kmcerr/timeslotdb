@@ -476,4 +476,7 @@ if __name__ == '__main__':
         logging.error("Please check the file path.")
     else:
         dashboard = DashboardApp(data)
-        dashboard.run(port=8051, debug=True)
+
+        import os
+        port = int(os.environ.get("PORT", 8050))
+        dashboard.run(host="0.0.0.0", port=port, debug=False)
