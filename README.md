@@ -1,10 +1,21 @@
 # Project Submission Dashboard
 An interactive data visualization dashboard for analyzing project submission patterns across different time slots. Built with Dash and Plotly, this tool helps identify peak submission times and trends to optimize resource allocation and workflow management.
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![Dash](https://img.shields.io/badge/dash-v2.11.0+-green.svg)
-![Plotly](https://img.shields.io/badge/plotly-v5.15.0+-red.svg)
-[![Live on Render](https://img.shields.io/badge/Demo-Live%20Dashboard-blue?style=for-the-badge)](https://timeslotdb.onrender.com/)
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Dash](https://img.shields.io/badge/Dash-2.11.0+-00629B?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-5.15.0+-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Dashboard-FF6B6B?style=for-the-badge&labelColor=4ECDC4)](https://timeslotdb.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/kmcerr/timeslotdb.git)
+
+<br>
+
+<img src="screenshots/img.png" alt="Dashboard Preview" width="90%" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+</div>
 
 ## Overview
 
